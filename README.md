@@ -2,7 +2,7 @@
 
 #Group Members
 
-AQUINO, John Edward /n
+AQUINO, John Edward
 GARCIA, Mark Joseph
 MANIO, Reynaldo
 PABALAN, Lexter John
